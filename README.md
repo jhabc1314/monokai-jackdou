@@ -11,3 +11,10 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+### 改动
+- 变量的颜色从纯白色调暗了一些
+- 底部tabbar 变成了和背景一样的黑色
+
+### 使用
+ git clone 到 ~/.vscode/extensions/ 目录下
